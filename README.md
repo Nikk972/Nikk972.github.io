@@ -1,6 +1,6 @@
-# Il mio codice di prova
+# SANCTUM Chess
 
-Ecco un esempio di codice HTML che ho scritto:
+Here's the code ;)
 
 ```<!DOCTYPE html>
 <html lang="it" class="h-full">
